@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "suma y multiplicacion/1.0.0": {
+        "runtime": {
+          "suma y multiplicacion.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "suma y multiplicacion/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

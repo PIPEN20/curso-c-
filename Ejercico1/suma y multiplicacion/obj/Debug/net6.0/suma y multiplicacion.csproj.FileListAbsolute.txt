@@ -1,0 +1,14 @@
+C:\Users\PIPEN\source\repos\curso-c-\Ejercico1\suma y multiplicacion\obj\Debug\net6.0\suma y multiplicacion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PIPEN\source\repos\curso-c-\Ejercico1\suma y multiplicacion\obj\Debug\net6.0\suma y multiplicacion.AssemblyInfoInputs.cache
+C:\Users\PIPEN\source\repos\curso-c-\Ejercico1\suma y multiplicacion\obj\Debug\net6.0\suma y multiplicacion.AssemblyInfo.cs
+C:\Users\PIPEN\source\repos\curso-c-\Ejercico1\suma y multiplicacion\obj\Debug\net6.0\suma y multiplicacion.csproj.CoreCompileInputs.cache
+C:\Users\PIPEN\source\repos\curso-c-\Ejercico1\suma y multiplicacion\bin\Debug\net6.0\suma y multiplicacion.exe
+C:\Users\PIPEN\source\repos\curso-c-\Ejercico1\suma y multiplicacion\bin\Debug\net6.0\suma y multiplicacion.deps.json
+C:\Users\PIPEN\source\repos\curso-c-\Ejercico1\suma y multiplicacion\bin\Debug\net6.0\suma y multiplicacion.runtimeconfig.json
+C:\Users\PIPEN\source\repos\curso-c-\Ejercico1\suma y multiplicacion\bin\Debug\net6.0\suma y multiplicacion.dll
+C:\Users\PIPEN\source\repos\curso-c-\Ejercico1\suma y multiplicacion\bin\Debug\net6.0\suma y multiplicacion.pdb
+C:\Users\PIPEN\source\repos\curso-c-\Ejercico1\suma y multiplicacion\obj\Debug\net6.0\suma y multiplicacion.dll
+C:\Users\PIPEN\source\repos\curso-c-\Ejercico1\suma y multiplicacion\obj\Debug\net6.0\refint\suma y multiplicacion.dll
+C:\Users\PIPEN\source\repos\curso-c-\Ejercico1\suma y multiplicacion\obj\Debug\net6.0\suma y multiplicacion.pdb
+C:\Users\PIPEN\source\repos\curso-c-\Ejercico1\suma y multiplicacion\obj\Debug\net6.0\suma y multiplicacion.genruntimeconfig.cache
+C:\Users\PIPEN\source\repos\curso-c-\Ejercico1\suma y multiplicacion\obj\Debug\net6.0\ref\suma y multiplicacion.dll
