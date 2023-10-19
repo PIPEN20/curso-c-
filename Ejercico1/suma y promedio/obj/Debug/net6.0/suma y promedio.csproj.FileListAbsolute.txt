@@ -1,0 +1,14 @@
+C:\Users\PIPEN\source\repos\curso-c-\Ejercico1\suma y promedio\bin\Debug\net6.0\suma y promedio.exe
+C:\Users\PIPEN\source\repos\curso-c-\Ejercico1\suma y promedio\bin\Debug\net6.0\suma y promedio.deps.json
+C:\Users\PIPEN\source\repos\curso-c-\Ejercico1\suma y promedio\bin\Debug\net6.0\suma y promedio.runtimeconfig.json
+C:\Users\PIPEN\source\repos\curso-c-\Ejercico1\suma y promedio\bin\Debug\net6.0\suma y promedio.dll
+C:\Users\PIPEN\source\repos\curso-c-\Ejercico1\suma y promedio\bin\Debug\net6.0\suma y promedio.pdb
+C:\Users\PIPEN\source\repos\curso-c-\Ejercico1\suma y promedio\obj\Debug\net6.0\suma y promedio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PIPEN\source\repos\curso-c-\Ejercico1\suma y promedio\obj\Debug\net6.0\suma y promedio.AssemblyInfoInputs.cache
+C:\Users\PIPEN\source\repos\curso-c-\Ejercico1\suma y promedio\obj\Debug\net6.0\suma y promedio.AssemblyInfo.cs
+C:\Users\PIPEN\source\repos\curso-c-\Ejercico1\suma y promedio\obj\Debug\net6.0\suma y promedio.csproj.CoreCompileInputs.cache
+C:\Users\PIPEN\source\repos\curso-c-\Ejercico1\suma y promedio\obj\Debug\net6.0\suma y promedio.dll
+C:\Users\PIPEN\source\repos\curso-c-\Ejercico1\suma y promedio\obj\Debug\net6.0\refint\suma y promedio.dll
+C:\Users\PIPEN\source\repos\curso-c-\Ejercico1\suma y promedio\obj\Debug\net6.0\suma y promedio.pdb
+C:\Users\PIPEN\source\repos\curso-c-\Ejercico1\suma y promedio\obj\Debug\net6.0\suma y promedio.genruntimeconfig.cache
+C:\Users\PIPEN\source\repos\curso-c-\Ejercico1\suma y promedio\obj\Debug\net6.0\ref\suma y promedio.dll
